@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# The recorded bag is part of the assignment, even in a repository that
+# ignores *.db3 to keep students' own recordings out.
+!laser_and_odometry/*.db3
